@@ -1,2 +1,1 @@
-# live_coding.github.io
-MON fastfood NaN
+# mon-new-code
